@@ -19,7 +19,7 @@
 ## 💼 Experience
 
 **Senior Software Engineer**  
-*Platform Planning & Design | Tata Communications*  
+*Tata Communications*  
 📅 July 2019 – August 2023 | 📍 Mumbai, India
 
 - 👨‍🏫 Mentored and trained four new teammates on internal tools and project responsibilities, fostering a collaborative and knowledgeable team environment.
