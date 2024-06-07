@@ -1,6 +1,5 @@
 # Rohan Kadam 🚀
-
-📞 07961662828 | 📧 kadam09rohan@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/firstlast) | 🐙 [GitHub](https://github.com/Rez27)
+🌐 [LinkedIn](https://www.linkedin.com/in/firstlast)
 
 ---
 
@@ -84,4 +83,4 @@ Automation, API Development & Design, Web Applications, Data Retrieval, Data Vis
 
 Feel free to reach out for collaborations or just a friendly chat about technology and innovations!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/firstlast) | 🐙 [GitHub](https://github.com/Rez27) | 📧 kadam09rohan@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/firstlast)
