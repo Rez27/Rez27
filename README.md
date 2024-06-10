@@ -83,4 +83,4 @@ Automation, API Development & Design, Web Applications, Data Retrieval, Data Vis
 
 Feel free to reach out for collaborations or just a friendly chat about technology and innovations!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/firstlast)
+🌐 [LinkedIn](https://www.linkedin.com/in/rohan-kadam270896)
