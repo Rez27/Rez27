@@ -5,11 +5,11 @@
 
 ## 🎓 Education
 
-**Masters M.E. in Advanced Computer Science**  
+**Masters M.E. in Advanced Computer Science - Distincation**  
 *University of Sussex, Falmer, UK*  
 📅 September 2024
 
-**Bachelors B.E. in Information Technology**  
+**Bachelors B.E. in Information Technology - Merit**  
 *St. Francis Institute of Technology, Mumbai, India*  
 📅 July 2019
 
