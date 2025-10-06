@@ -40,12 +40,10 @@
 *Tata Communications*  
 📅 July 2019 – August 2023 | 📍 Mumbai, India
 
-- 👨‍🏫 Mentored and trained four new teammates on internal tools and project responsibilities, fostering a collaborative and knowledgeable team environment.
-- 🚀 Led a team of three members in assembling and POC testing API architecture, ensuring streamlined and secure API operations with an API gateway, showcasing leadership, backend development, and technical expertise.
-- 🤝 Collaborated closely with product managers to create custom dashboards and automate the generation of customer usage and inventory statistics using Python, delivering valuable insights for tracking monthly and quarterly growth, cross-functional product management interaction, and analytical skills.
-- 📊 Monitored customer usage and capacity as part of the traffic analysis team, overseeing 15 of the top 50 customers for a key product, demonstrating attention to detail and client management skills.
-- 💡 Innovated on experimental projects under the direction of our Director, delivering time-efficient solutions and creating new services, showcasing innovation and the ability to handle high-stakes projects.
-
+-  Delivered analytical support across internal departments by collecting, cleaning, and validating large datasets related to customer usage patterns and network operations.
+- Extracted and summarized performance indicators using SQL, Excel and python, enabling stakeholders to track KPIs such as service quality, usage trends, and operational efficiency with over 90% accuracy.
+- Built and maintained self-service dashboards using Power BI and web development tools, helping non-technical teams monitor exception trends, customer behaviour, and performance metrics in real time.
+- Led a team of three members in assembling and POC testing API architecture, ensuring streamlined and secure API operations with an API gateway, showcasing leadership, backend development, and technical expertise.
 ---
 
 ## 🛠️ Projects
