@@ -5,6 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
@@ -89,10 +90,10 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages & Frameworks:**  
-Python, Django Web Framework, Django REST Framework, HTML, CSS, JavaScript (JS), MySQL
+Python, Django Web Framework, Django REST Framework, FastAPI, HTML, CSS, JavaScript (JS), MySQL
 
 **Tools & Concepts:**  
-Automation, API Development & Design, Web Applications, Data Retrieval, Data Visualization, Kong Gateway or API Gateway, Frontend, Backend, AWS (Amazon Web Services), Postman, Agile Methodology, Git, Linux, Network Traffic Analysis, Information Technology
+ Data Analytics, Data Modelling, KPI & Performance Tracking,  Self-Service Reporting, Dashboarding (Power BI, Tableau), Data Visualization, Automation, API Development & Design, Web Applications, Kong Gateway or API Gateway, Frontend, Backend, AWS (Amazon Web Services), Postman, Agile Methodology, Git, Linux, Network Traffic Analysis, Information Technology
 
 ---
 
