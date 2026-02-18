@@ -97,6 +97,7 @@ Python (Pandas) | SQL | Excel (PivotTables, Power Pivot) | Power BI | DAX | Data
 
 **Technologies:**
 Python (Django, FastAPI, Django REST Framework) | Excel | SQL |FastAPI | HTML | CSS | PySpark
+
 ---
 
 ## 📫 Get in Touch
