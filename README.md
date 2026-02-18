@@ -27,11 +27,11 @@
 
 **Masters M.Sc in Advanced Computer Science - Distincation**  
 *University of Sussex, Falmer, UK*  
-📅 September 2024
+📅 2024
 
 **Bachelors B.Eng in Information Technology - Merit**  
 *St. Francis Institute of Technology, Mumbai, India*  
-📅 July 2019
+📅 2019
 
 ---
 
@@ -41,10 +41,11 @@
 *Tata Communications*  
 📅 July 2019 – August 2023 | 📍 Mumbai, India
 
--  Delivered analytical support across internal departments by collecting, cleaning, and validating large datasets related to customer usage patterns and network operations.
-- Extracted and summarized performance indicators using SQL, Excel and python, enabling stakeholders to track KPIs such as service quality, usage trends, and operational efficiency with over 90% accuracy.
-- Built and maintained self-service dashboards using Power BI and web development tools, helping non-technical teams monitor exception trends, customer behaviour, and performance metrics in real time.
-- Led a team of three members in assembling and POC testing API architecture, ensuring streamlined and secure API operations with an API gateway, showcasing leadership, backend development, and technical expertise.
+- Led analytics for a Tier-1 internet connectivity product, owning insights for Top 10 enterprise accounts (within the company's Top 50 global customers) including Meta, Apple, Microsoft and Cloudflare.
+- Diagnosed routing/cross-connection issues through analysis, improving latency by 70%+ for multiple clients and reducing performance choke points.
+- Reworked and enhanced 2 Python data manipulation pipelines by implementing complex business rules using Python + SQL, improving data reliability for downstream reporting and decisions saving 30+ hours monthly.
+- Built 2 dashboards from scratch and owned backend data pipelines for 4 additional dashboards using SQL + Python + BI tooling, improving KPI visibility for product stakeholders.
+- Leveraged advanced Excel skills and PowerBI to Deliver KPI to Product Managers in bi-weekly and monthly forums, driving 15-20% service adoption uplift for a key client.
 ---
 
 ## 🛠️ Projects
@@ -89,12 +90,14 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages & Frameworks:**  
-Python, Django Web Framework, Django REST Framework, FastAPI, HTML, CSS, JavaScript (JS), MySQL
+**Functional Competencies:**  
+Stakeholder Communication | Cross Team Collaboration | Planning Support | Problem Solving | KPI Reporting | Dashboard Development | Reporting Automation | Market & Customer Analysis | Pricing & Product Insights
 
-**Tools & Concepts:**  
- Data Analytics, Data Modelling, KPI & Performance Tracking,  Self-Service Reporting, Dashboarding (Power BI, Tableau), Data Visualization, Automation, API Development & Design, Web Applications, Kong Gateway or API Gateway, Frontend, Backend, AWS (Amazon Web Services), Postman, Agile Methodology, Git, Linux, Network Traffic Analysis, Information Technology
+**Data Analysis:**  
+Python (Pandas) | SQL | Excel (PivotTables, Power Pivot) | Power BI | DAX | Databricks | Data Cleaning | Data Modelling
 
+**Technologies:**
+Python (Django, FastAPI, Django REST Framework) | Excel | SQL |FastAPI | HTML | CSS | PySpark
 ---
 
 ## 📫 Get in Touch
