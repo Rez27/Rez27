@@ -30,7 +30,7 @@
 📅 2024
 
 **Bachelors B.Eng in Information Technology - Merit**  
-*St. Francis Institute of Technology, Mumbai, India*  
+*University of Mumbai*  
 📅 2019
 
 ---
@@ -39,8 +39,7 @@
 
 **Senior Software Engineer**  
 *Tata Communications*  
-📅 July 2019 – August 2023 | 📍 Mumbai, India
-
+📅 4+ YOE
 - Led analytics for a Tier-1 internet connectivity product, owning insights for Top 10 enterprise accounts (within the company's Top 50 global customers) including Meta, Apple, Microsoft and Cloudflare.
 - Diagnosed routing/cross-connection issues through analysis, improving latency by 70%+ for multiple clients and reducing performance choke points.
 - Reworked and enhanced 2 Python data manipulation pipelines by implementing complex business rules using Python + SQL, improving data reliability for downstream reporting and decisions saving 30+ hours monthly.
